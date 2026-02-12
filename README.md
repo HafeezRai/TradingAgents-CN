@@ -229,9 +229,4 @@ Ways to contribute:
 - Localization
 - Code optimization
 
-Workflow:
 
-```bash
-git checkout -b feature/AmazingFeature
-git commit -m "Add some AmazingFeature"
-git push origin feature/AmazingFeature
